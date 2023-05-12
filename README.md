@@ -1,5 +1,9 @@
 # CPTR 142: Project III
 
+## Preface & Information
+This project was my group project final for my programming class. We were simply given our groups, and were told to make a project sufficient for a group in C++. Most of my effort and work went into organizing classes and dialogue, while my other group members worked on some specific classes, such as the room game or evidence gathering.
+
+
 ## Game: Smoke and Mirrors
 
 The goal for this project is to create a text-based game about a murder mystery. This story is told through the perspective of a detective talking to the player, and the player's objective is to find evidence and guide the detective to the true suspect. We will need to organize the text and branching choices into functions to call from. There will be different endings depending on the amount of evidence found.
